@@ -1,0 +1,16 @@
+---
+:id: 124817495
+:submitters:
+- :name: Chenrui Hu
+  :email: chenruih@seas.upenn.edu
+- :name: Rong Fan
+  :email: rongfan@seas.upenn.edu
+- :name: Yue Xing
+  :email: xingyue3@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-02 06:33:45.973516000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-01 23:33:45.973516000 Z
+:status: processed
+:score: 97.5
